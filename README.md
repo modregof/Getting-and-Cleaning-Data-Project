@@ -18,4 +18,4 @@ The Code is explained in more detail in CodeBook.md
 
 1. Download the files in your working directory from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 2. Run the script `run_analysis.R` from RStudio:
-3. Look for the final dataset at `data/output/uci_har_mean_std_averages.csv`
+3. Look for the final dataset at `samsung_measures.txt`
